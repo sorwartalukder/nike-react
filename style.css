@@ -1,0 +1,34 @@
+.website-bg-color {
+    background-color: #E5E5E5;
+}
+
+.header-bg-color {
+    background-color: #FFF9F4;
+}
+
+.heading-text-color-first {
+    color: #FA804C;
+}
+
+.heading-text-color-second {
+    color: #363958;
+}
+
+.btn-color {
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    /* border-radius: 20px; */
+}
+
+.card-bg-color {
+    background-color: #F1F1F1;
+}
+
+.image-size {
+    width: 311px;
+}
+
+@media screen and (max-width: 576px) {
+    .nike-logo img {
+        width: 180px;
+    }
+}
